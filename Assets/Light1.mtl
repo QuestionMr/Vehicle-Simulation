@@ -1,0 +1,6 @@
+newmtl MAT_Blue_Sedan
+map_Kd TEX_Blue_Sedan_AL.png
+map_Pm TEX_Blue_Sedan_MS.png
+Kd 1 1 1
+d 1
+
